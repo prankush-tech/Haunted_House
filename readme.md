@@ -1,4 +1,4 @@
-# Three.js Journey
+## Go Live https://prankush-haunted-house.netlify.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
